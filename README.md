@@ -13,5 +13,5 @@
 - Завантажити [VS Code](https://code.visualstudio.com/)
 
 ### Які бібліотеки завантажити(це треба вписувати у термінал):
-- Pygame: '''pip install pygame'''
-- Request: '''pip install request'''
+- Pygame: ```pip install pygame```
+- Request: ```pip install request```
